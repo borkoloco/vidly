@@ -25,7 +25,7 @@ SECRET_KEY = 'np4&$tove=91uixd%gt9y@)7w*l_(sz55$0a9x+!zhe7(@jox='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
